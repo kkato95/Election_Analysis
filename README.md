@@ -16,14 +16,14 @@ Using the data to run analysis we we able to calculates the various topics.
 ![image](https://user-images.githubusercontent.com/99375741/158099830-c218a7c9-8c1b-44d3-93b2-c0d8092c735b.png)  
 ![image](https://user-images.githubusercontent.com/99375741/158099910-84f87844-0fcc-4a71-a557-f99e59f9149e.png)  
 
-4. Diana DeGette received 73.8% (85,213), Charles Casp Stockham recieved 23.0%,a nd Raymnd Anthony Doane recieved 3.1% (11,606).  
+4. Diana DeGette received 73.8% (85,213), Charles Casp Stockham recieved 23.0%, and Raymnd Anthony Doane recieved 3.1% (11,606).  
 ![image](https://user-images.githubusercontent.com/99375741/158100036-9de755bd-d3ab-4192-a8c8-54ca9c8cf184.png)  
 
 5. Diana DeGette won the election with a total of 272,892 and winning percentage of 73.8%  
 ![image](https://user-images.githubusercontent.com/99375741/158100063-360f67f5-f717-472f-a210-c7334c2dd2b8.png)  
 
 ## Election Audit Summary:  
-The sript created can be used in ohter elections to preform the same election audit. There are 2 things that must be changed for this code to work in other instances.  
+The script created can be used in ohter elections to preform the same election audit. There are 2 things that must be changed for this code to work in other instances.  
 1. The first thing that would have to be chagned is the file from which python is reading. We would have to update the path 'file_to_laod' to read the new data.  
 ![image](https://user-images.githubusercontent.com/99375741/158100641-d16b4542-4297-403d-aee2-94109b036712.png)  
 2.The second peice of code that must be updated is the location python is writing to. We would change the path to the new write_to file.  
