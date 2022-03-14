@@ -4,7 +4,7 @@ The purpose of the PyPoll Challenge election audit analysis is to observe the vo
 
 ## Election-Audit Results:
 Using the data to run analysis we we able to calculates the various topics.
-1. Using a for loop and 2 nested if-statements to build the lists of candidates and their vote count and county and their vote count: Total Votes - 369,711
+1. Using a for loop and 2 nested if-statements to build the lists of candidates and their vote count and county and their vote count: Total Votes - 369,711  
 ![image](https://user-images.githubusercontent.com/99375741/158099491-ec2740ae-9a48-4b7d-910b-ff26800be9a4.png)
 ![image](https://user-images.githubusercontent.com/99375741/158099306-0e96fd00-5896-4e2a-bf86-bb5dc93436c2.png)
 
