@@ -23,8 +23,8 @@ Using the data to run analysis we we able to calculates the various topics.
 ![image](https://user-images.githubusercontent.com/99375741/158100063-360f67f5-f717-472f-a210-c7334c2dd2b8.png)  
 
 ## Election Audit Summary:  
-The script created can be used in ohter elections to preform the same election audit. There are 2 things that must be changed for this code to work in other instances.  
-1. The first thing that would have to be chagned is the file from which python is reading. We would have to update the path 'file_to_laod' to read the new data.  
+The script created can be used in other elections to preform the same election audit. There are 2 things that must be changed for this code to work in other instances.  
+1. The first peice of code that would have to be changed is the file from which Python is reading. We would have to update the path 'file_to_laod' to read the new data.  
 ![image](https://user-images.githubusercontent.com/99375741/158100641-d16b4542-4297-403d-aee2-94109b036712.png)  
-2.The second peice of code that must be updated is the location python is writing to. We would change the path to the new write_to file.  
+2.The second peice of code that must be updated is the location Python is writing to. We would change the path to the new write_to file.  
 ![image](https://user-images.githubusercontent.com/99375741/158100862-5e835179-8dcd-43e9-ac64-beedf98cd2d4.png)  
